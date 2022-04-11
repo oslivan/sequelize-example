@@ -1,0 +1,20 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "./development.sqlite",
+    "dialectOptions": {
+    }
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": ":memory:",
+    "dialectOptions": {
+    }
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "./production.sqlite",
+    "dialectOptions": {
+    }
+  }
+}
