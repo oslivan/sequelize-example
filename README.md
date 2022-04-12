@@ -2,7 +2,7 @@
 
 ## 简介
 
-- ORM框架 - sequelize
+- ORM框架 - sequelize@v6
 ```bash
 npm i sequelize
 ```
